@@ -1,45 +1,44 @@
-# Test Summary Report – VicVet Clinic Management System
+# Test Summary Report
 
 ## Project
-
 VicVet Clinic Management System
 
 ## Testing Type
-
 Manual Functional Testing
 
-## Test Execution Summary
+## Testing Period
+July 2026
 
-| Metric | Result |
-|--------|--------|
-| Total Test Cases | 10 |
-| Passed | 10 |
-| Failed | 0 |
-| Blocked | 0 |
-| Not Executed | 0 |
-
-## Features Tested
-
-- User Login
+## Modules Tested
+- Login
 - User Registration
-- Dashboard
+- Admin Dashboard
+- User Dashboard
 - Pet Management
+- Owner Management
 - Appointment Management
 - Medical Records
 - Staff Management
+- Logout
 
-## Defects
+## Total Test Cases
+40
 
-No critical defects were identified during this round of manual testing.
+## Executed
+10
+
+## Passed
+10
+
+## Failed
+0
+
+## Blocked
+0
+
+## Defects Found
+No defects have been documented yet.
 
 ## Conclusion
-
-The executed test cases passed successfully, indicating that the tested features are functioning as expected. The application is considered ready for further testing and future enhancements.
-
-## Prepared By
-
-Emmanuel Onimisi
-
-## Date
-
-22 July 2026
+A comprehensive set of manual test cases has been prepared for the VicVet Clinic Management System. 
+Test execution and defect reporting will be updated as testing progresses.
